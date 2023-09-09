@@ -48,6 +48,8 @@
   top: 30%;
   left: 0;
   text-align: center;
+  left: 0;
+  right: 0;
 }
 
 .loginScreen_body > h1 {
@@ -62,7 +64,7 @@
 }
 
 .loginScreen_input {
-  margin-top: 20px;
+  margin: 20px;
 }
 
 .loginScreen_input > form > input {
